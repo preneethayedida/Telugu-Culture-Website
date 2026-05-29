@@ -39,7 +39,7 @@ To design a culturally immersive, aesthetically rich website using HTML, CSS, an
 ---
 
 ## 🌐 Live Demo:
-🔗 [Website on Glitch](https://telugu-culture-website.glitch.me)
+🔗(https://preneethayedida.github.io/Telugu-Culture-Website/Task1/)
 
 ## 🎥 Project Demo Video:
 🔗 [YouTube Video](https://youtu.be/Dbij212O_W4?si=IXzY_iaHU2ub47aL)
